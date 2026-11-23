@@ -5,4 +5,4 @@ Script em Python para montar listas de compras no terminal, validar quantidades,
 ## Como executar
 
 ```bash
-python lista_compras.py
+python listaSimplesMercado.py
